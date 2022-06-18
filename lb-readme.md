@@ -9,6 +9,8 @@ MySQL driver
 MySQL CLI  
 MySQL Workbench  
 
+[Using Liquibase with MySQL](https://docs.liquibase.com/install/tutorials/mysql.html)
+
 ---
 ### Changelog File
 
@@ -26,6 +28,8 @@ rollback
 
 ---
 ### Properties File
+
+[Specifying Properties in a Connection Profile](https://docs.liquibase.com/concepts/connections/creating-config-properties.html)
 
 - changelog-file
 - classpath
@@ -45,3 +49,7 @@ Ad hoc update
 Rollbacks
 
 Status
+
+`liquibase update`  
+`liquibase status`  
+`liquibase rollback-count @number-var`
