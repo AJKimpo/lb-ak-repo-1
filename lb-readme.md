@@ -15,12 +15,16 @@ MySQL Workbench
 single file, all changes
 
 specific formatting
+- file header
+- changeset header
+- changeset sql script body
+- changeset rollback
 
 changesets
 
 rollback
 
-
+---
 ### Properties File
 
 changelog-file
@@ -30,6 +34,7 @@ url
 username
 password
 
+---
 ### CI Pipeline
 Liquibase update runs immediately following PR merge containing a changelog.sql change
 
