@@ -21,13 +21,16 @@ changesets
 The changelog file must adhere to specific formatting:  
 File Header 
 - located at top of the changelog
-- `--liquibase formatted sql`
+- `--liquibase formatted sql`  
+
 Changeset Header
 - changeset tag
 - author/description & changeset id
-- `--changeset oadc-mcs-db-alterTable:4`
+- `--changeset oadc-mcs-db-alterTable:4`  
+
 Changeset Script Body
-- tbd
+- tbd  
+
 Changeset Rollback
 - rollback tag
 - rollback script
