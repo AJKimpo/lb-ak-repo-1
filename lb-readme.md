@@ -5,11 +5,11 @@
 
 ### Local Installation
 
-Liquibase
-MySQL
-MySQL driver
-MySQL CLI
-MySQL Workbench
+Liquibase  
+MySQL  
+MySQL driver  
+MySQL CLI  
+MySQL Workbench  
 
 ### Changelog File
 
