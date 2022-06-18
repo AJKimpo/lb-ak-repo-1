@@ -11,18 +11,29 @@ MySQL Workbench -> [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
 [Using Liquibase with MySQL](https://docs.liquibase.com/install/tutorials/mysql.html)
 
-----
+---
 ### Changelog File
 
 single file, all changes
 
-specific formatting
-- file header
-- changeset header
-- changeset sql script body
-- changeset rollback
-
 changesets
+
+The changelog file must adhere to specific formatting:  
+File Header 
+- located at top of the changelog
+- `--liquibase formatted sql`
+Changeset Header
+- changeset tag
+- author/description & changeset id
+- `--changeset oadc-mcs-db-alterTable`
+Changeset Script Body
+- tbd
+Changeset Rollback
+- rollback tag
+- rollback script
+- `--rollback`
+
+
 
 rollback
 
