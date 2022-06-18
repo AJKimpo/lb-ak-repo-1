@@ -32,8 +32,10 @@ rollback
 - driver
 - url
 - username
-- password
-image.png
+- password  
+
+![image-test](image.png)
+
 ---
 ### CI Pipeline
 Liquibase update runs immediately following PR merge containing a changelog.sql change
