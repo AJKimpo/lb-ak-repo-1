@@ -27,13 +27,13 @@ rollback
 ---
 ### Properties File
 
-changelog-file
-classpath
-driver
-url
-username
-password
-
+- changelog-file
+- classpath
+- driver
+- url
+- username
+- password
+image.png
 ---
 ### CI Pipeline
 Liquibase update runs immediately following PR merge containing a changelog.sql change
