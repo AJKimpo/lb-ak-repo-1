@@ -25,7 +25,7 @@ File Header
 Changeset Header
 - changeset tag
 - author/description & changeset id
-- `--changeset oadc-mcs-db-alterTable`
+- `--changeset oadc-mcs-db-alterTable:4`
 Changeset Script Body
 - tbd
 Changeset Rollback
