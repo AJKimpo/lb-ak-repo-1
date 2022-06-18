@@ -1,5 +1,6 @@
 ## Liquibase README
 Liquibase is a database versioning tool that tracks and applies database changes.
+
 ---
 ### Local Installation
 Liquibase -> [Installing Liquibase](https://docs.liquibase.com/install/home.html?__hstc=128893969.b36a17ab25b3f338c3b36a4745332d31.1650395434194.1651274493935.1651303723706.4&__hssc=128893969.1.1651303723706&__hsfp=4140801928&_ga=2.14906805.205991521.1651274494-1494013733.1648648126)  
@@ -7,6 +8,7 @@ MySQL
 MySQL driver  
 MySQL CLI  
 MySQL Workbench  
+
 ---
 ### Changelog File
 
